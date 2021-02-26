@@ -12,9 +12,10 @@
         
 
 -----> Show commit:
-        $ git log
+       
+       $ git log
         
-        $git show "Type_your_hashvalue"
+       $git show "Type_your_hashvalue"
         
         
         
