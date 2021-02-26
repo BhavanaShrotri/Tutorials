@@ -9,3 +9,13 @@
 -----> To view all the config we set up globally for git use the Following Command:
 
         $ git config --global –list
+        
+
+-----> Show commit:
+        $ git log
+        
+        $git show "Type_your_hashvalue"
+        
+        
+        
+
