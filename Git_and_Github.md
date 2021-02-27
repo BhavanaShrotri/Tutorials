@@ -1,3 +1,7 @@
+- GitHub Flavored Markdown Spec 1: https://github.github.com/gfm/
+
+
+
 ### Set Author:
 
 -----> Using following command user can set name and email-id:
