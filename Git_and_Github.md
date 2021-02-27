@@ -16,6 +16,18 @@
        $ git log
         
        $ git show "Type_your_hashvalue"
+       
+       $ git commit -m "Type_your_message"
+       
+
+-----> Creating new branch:
+
+       $ git branch name_of_the_branch
+       
+       $ git switch name_of_the_branch
+       
+       
+
         
         
         
